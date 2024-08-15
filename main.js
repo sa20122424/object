@@ -10,4 +10,6 @@ let object = {
     password:password,
 }
 
-console.log(object);
+console.log(object.ism);
+console.log(object.id);
+console.log(object.password);
